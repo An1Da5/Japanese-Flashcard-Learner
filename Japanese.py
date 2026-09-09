@@ -519,7 +519,7 @@ def main():
     valid = False
     select = 0
     words = Library()
-    words.loadJSON("C:\\Users\\anika\\Projects\\Summer 2026\\Words.json")
+    words.loadJSON("Words.json") # Can also add full path name
     difficulty = Difficulty()
     direction = ""
 
@@ -573,7 +573,7 @@ def mainGUI():
 
     difficulty = Difficulty()
     words = Library()
-    words.loadJSON("C:\\Users\\anika\\Projects\\Summer 2026\\Words.json")
+    words.loadJSON("Words.json") # Can also add full path name
     root = tkinter.Tk()
     buildMenu(difficulty, words, root)
     root.mainloop()
