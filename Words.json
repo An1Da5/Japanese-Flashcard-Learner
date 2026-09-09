@@ -1,0 +1,36 @@
+[
+    {
+        "Hiragana": "こんにちは",
+        "Romanised": "Konnichiwa",
+        "English": "Hello",
+        "Difficulty": 1
+    },
+
+    {
+        "Hiragana": "ありがとう",
+        "Romanised": "Arigatou",
+        "English": "Thank you",
+        "Difficulty": 1
+    },
+
+    {
+        "Hiragana": "さくら",
+        "Romanised": "Sakura",
+        "English": "Cherry blossom",
+        "Difficulty": 1
+    },
+
+    {
+        "Hiragana": "せんせい",
+        "Romanised": "Sensei",
+        "English": "Teacher",
+        "Difficulty": 1
+    },
+
+    {
+        "Hiragana": "おいしい",
+        "Romanised": "Oishii",
+        "English": "Tasty",
+        "Difficulty": 1
+    }
+]
