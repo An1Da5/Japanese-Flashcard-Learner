@@ -1,2 +1,2 @@
-# Japanese-Flashcard-Learner
-A summer project I did involving OOP that allows for multiple choice and matching
+A summer project I did involving OOP that allows for a user to have saved a JSON file containing words in the format "Hiragana", "Romaji", "English" & "Difficulty" (which has a value from 1-3).
+Two modes: multiple choice where there is a choice of using English or Japanese as the given term or pair matching.
